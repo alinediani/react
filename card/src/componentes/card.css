@@ -1,3 +1,15 @@
 .Card{
     background-color: white;
+    border-radius: 10px;
+    overflow: hidden;
+    border: 3px solid red;
+}
+.Card .title{
+background-color: yellowgreen;
+padding: 10px 0px;
+}
+.Card .content{
+    background-color: teal;
+    color: #000000;
+    padding: 20px;
 }
