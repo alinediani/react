@@ -3,13 +3,19 @@
     border-radius: 10px;
     overflow: hidden;
     border: 3px solid red;
+    width: 200px;
+    height:300px;
 }
 .Card .title{
-background-color: yellowgreen;
+background-color: rgb(71, 73, 67);
 padding: 10px 0px;
+display: flex;
+justify-content: center;
 }
 .Card .content{
     background-color: teal;
     color: #000000;
-    padding: 20px;
+   display: flex;
+   justify-content: center;
+   height: 100%;
 }
