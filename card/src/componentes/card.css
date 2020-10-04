@@ -1,24 +1,31 @@
-
 .Card{
-    background-color: white;
-    border-radius: 10px;
-    overflow: hidden;
-    border: 3px solid red;
-    width: 200px;
-    height:300px;
-    flex-direction: row;
+  background-color: white;
+  border-radius: 10px;
+  overflow: hidden;
+  border: 3px solid red;
+  width: 200px;
+  height:300px;
+  margin-right: 30px;
 }
+
 .Card .title{
-background-color: rgb(71, 73, 67);
-padding: 10px 0px;
-display: flex;
-justify-content: center;
+  background-color: rgb(130, 148, 94);
+  padding: 10px 0px;
+  display: flex;
+  justify-content: center;
 }
+
 .Card .content{
-    background-color: teal;
-    color: #000000;
-   display: flex;
-   justify-content: center;
-   height: 100%;
-   flex-direction: row;
+  background-color: teal;
+  color: #000000;
+  display: flex;
+  justify-content: center;
+  height: 100%;
+  flex-direction: row;
+}
+
+nav {
+  background-color: blueviolet;   
+  height: 100px;
+  width: 100%;
 }
