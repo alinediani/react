@@ -12,7 +12,7 @@ export default()=>(
        <div className='a'>
         <Card titulo="Exemplo de card"></Card>
         <Card titulo='2'></Card>
-        <Card titulo='Aline e Cainan'></Card>
+        <Card titulo='Aline'></Card>
         </div>
         </div>
  
